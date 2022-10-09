@@ -17,7 +17,7 @@ const App = () => {
     <>
       <div className='background-container' />
       <div className='App'>
-        <h1 className='countdown-title'>DISNEYWORLD</h1>
+        <h1 className='countdown-title'>DISNEY WORLD</h1>
         <div className='countdown-container'>
           <p className='section-container'>
             <span className='section-number'>
